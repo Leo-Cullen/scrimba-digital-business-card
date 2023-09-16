@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Arbutus+Slab&family=Jost&family=Ultra&display=swap");
+
+body {
+  background-color: beige;
+}
+
+.card {
+  margin: 100px auto;
+  width: 450px;
+  color: #fff;
+  background-color: #5268ff;
+  display: flex;
+  border-bottom: 40px solid #873467;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 5px 10px 18px #888888;
+}
+
+img {
+  width: 150px;
+  border-top-left-radius: 20px;
+  border-right: 4px solid white;
+}
+
+.text {
+  font-family: jost;
+  margin: auto;
+}
